@@ -1,6 +1,11 @@
 ### Hi, I'm Auyium! 👋
 
 - 🏫 Currently a student studying computer science.
-- 🔭 Working on my Node.JS chat application!
-- 🌱 Learning Node.JS
 
+### What am I doing?
+
+- 🌱 I am learning Javascript, Node.JS, HTML & CSS.
+
+###
+
+Feel free to use my code whenever nessecary, unless said otherwise!
