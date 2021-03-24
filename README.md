@@ -14,4 +14,4 @@
 
 ###
 
-Feel free to use my code whenever nessecary, unless said otherwise!
+Feel free to use my code whenever nessecary!
