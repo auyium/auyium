@@ -10,7 +10,7 @@
 
 ### Project right now?
 
-- 🚀 I am currently working on EarthCord, which is in very early development. 
+- 🚀 I am currently working on Divinity, which is in very early development. 
 
 ###
 
