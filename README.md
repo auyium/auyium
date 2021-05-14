@@ -1,6 +1,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=auyium&show_icons=true)
-
-### Hi, I'm Auyium! 👋
+<p align="center">
+  <h1>Auyium</h1>
+</p>
 
 - 🏫 Currently a student studying computer science.
 
